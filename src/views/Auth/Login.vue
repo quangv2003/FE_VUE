@@ -65,7 +65,7 @@
 </template>
 <script>
 import { ElNotification } from 'element-plus';
-import axios from '@/plugins/axios';
+import axios from 'axios';
 export default {
     data() {
         return {
